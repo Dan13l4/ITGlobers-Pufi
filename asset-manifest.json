@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/pufi-itglobers/static/css/main.a8a0c9a2.css",
+    "main.js": "/pufi-itglobers/static/js/main.7e170a4c.js",
+    "static/media/carouselImg1.png": "/pufi-itglobers/static/media/carouselImg1.40813a61bf806ebe7e49.png",
+    "static/media/carouselImg3.png": "/pufi-itglobers/static/media/carouselImg3.71a73f32f845a4e5f108.png",
+    "static/media/carouselImg2.png": "/pufi-itglobers/static/media/carouselImg2.58fcc6e0bfdc19ad5914.png",
+    "static/media/pufff.png": "/pufi-itglobers/static/media/pufff.efff27ea65c9925115d1.png",
+    "static/media/cart.jpg": "/pufi-itglobers/static/media/cart.0ecaf1bdee460ec2f7a7.jpg",
+    "static/media/umbrella.png": "/pufi-itglobers/static/media/umbrella.2eb7e4d634a9baf3937c.png",
+    "static/media/puff.jpg": "/pufi-itglobers/static/media/puff.dfc82c1a92cf80e36ae3.jpg",
+    "static/media/picture5.jpg": "/pufi-itglobers/static/media/picture5.8d905dd0273da559ed67.jpg",
+    "static/media/umbrellas.jpg": "/pufi-itglobers/static/media/umbrellas.2a4d01d09adfc219adb0.jpg",
+    "static/media/picture6.jpg": "/pufi-itglobers/static/media/picture6.5dae723329fd8d386953.jpg",
+    "static/media/beachInflatable.jpg": "/pufi-itglobers/static/media/beachInflatable.6e85bf75857423ce7003.jpg",
+    "static/media/Nap.jpg": "/pufi-itglobers/static/media/Nap.68564fb3fe79ec36ffd0.jpg",
+    "static/media/cartT.png": "/pufi-itglobers/static/media/cartT.fe5e439504efdd395d3f.png",
+    "static/media/logoBlack.png": "/pufi-itglobers/static/media/logoBlack.dadddb91989346a6586f.png",
+    "static/media/logo.png": "/pufi-itglobers/static/media/logo.48c7df92c672a0638fe7.png",
+    "index.html": "/pufi-itglobers/index.html",
+    "main.a8a0c9a2.css.map": "/pufi-itglobers/static/css/main.a8a0c9a2.css.map",
+    "main.7e170a4c.js.map": "/pufi-itglobers/static/js/main.7e170a4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8a0c9a2.css",
+    "static/js/main.7e170a4c.js"
+  ]
+}
