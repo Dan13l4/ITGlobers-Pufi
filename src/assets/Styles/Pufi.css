@@ -12,7 +12,6 @@
     justify-content: center;
     align-items: center;
     text-align: center;
-    font-family: "Poppins", sans-serif;
     background-color: rgb(240, 235, 235);
 }
 .containerText h3 {
@@ -46,4 +45,13 @@
 }
 .showMore :hover{
     color: blue;
+}
+
+.containerImgPuff{
+    background-image: url("../img/puff.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }

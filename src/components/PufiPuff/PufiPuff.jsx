@@ -1,26 +1,26 @@
 import React from "react";
 
 import "../../assets/Styles/Pufi.css";
-import umbrella from "../../assets/img/umbrella.png";
+import puff from "../../assets/img/pufff.png";
 import separador from "../../assets/img/menos.png";
 
-export default function PufiRain() {
+export default function PufiPuff() {
   return (
-    <div class="containerPufi" id="sectionRain">
-      <div class="containerImg">
-        <div className="buttonbox">
-          <button className="btnShop bg-transparent">SHOP</button>
-        </div>
-      </div>
+    <div class="containerPufi" id="sectionPuff">
       <div class="containerText">
-        <img className="umbrella" src={umbrella} alt="imageboxUmbrella" />
-        <h3>Pufi RAIN</h3>
+        <img className="umbrella" src={puff} alt="imageboxUmbrella" />
+        <h3>Pufi PUFF</h3>
         <img className="separator" src={separador} alt="imageboxUmbrella" />
         <p class="lead">Descripción del producto. Este es un texto simulado.</p>
         <button className="showMore">
           {" "}
           <i className="fa-solid fa-chevron-right"> VER MAS</i>{" "}
         </button>
+      </div>
+      <div class="containerImgPuff">
+        <div className="buttonbox">
+          <button className="btnShop bg-transparent">SHOP</button>
+        </div>
       </div>
     </div>
   );
