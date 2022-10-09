@@ -13,7 +13,7 @@ export default function PufiNap() {
         </div>
       </div>
       <div class="containerText">
-        <img className="umbrella" src={sleep} alt="imageNap" />
+        <img className="icon" src={sleep} alt="imageNap" />
         <h3>Pufi NAP</h3>
         <img className="separator" src={separador} alt="imageNap" />
         <p class="lead">Descripción del producto. Este es un texto simulado.</p>

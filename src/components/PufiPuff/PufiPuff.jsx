@@ -8,7 +8,7 @@ export default function PufiPuff() {
   return (
     <div class="containerPufi" id="sectionPuff">
       <div class="containerText">
-        <img className="umbrella" src={puff} alt="imagePuff" />
+        <img className="icon" src={puff} alt="imagePuff" />
         <h3>Pufi PUFF</h3>
         <img className="separator" src={separador} alt="imagePuff" />
         <p class="lead">Descripción del producto. Este es un texto simulado.</p>

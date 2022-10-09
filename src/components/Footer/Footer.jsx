@@ -99,10 +99,10 @@ export default function Footer() {
                     COMPRA 100% SEGURA
                   </a>
                 </li>
-                <li className=" pgarantia nav-item mb-2">
-                  <div className="containersegurity">
+                <li className=" guaranteeText nav-item mb-2">
+                  <div className="containerWarranty">
                     <i class="fa-solid fa-shield-halved"></i>
-                    <p>COMPRA CON LA GARANTIA DE PUFI</p>
+                    <p className="buyText">COMPRA CON LA GARANTIA DE PUFI</p>
                   </div>
                 </li>
               </ul>

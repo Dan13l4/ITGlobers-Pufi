@@ -13,7 +13,7 @@ export default function PufiRain() {
         </div>
       </div>
       <div class="containerText">
-        <img className="umbrella" src={umbrella} alt="imageboxUmbrella" />
+        <img className="icon" src={umbrella} alt="imageboxUmbrella" />
         <h3>Pufi RAIN</h3>
         <img className="separator" src={separador} alt="imageboxUmbrella" />
         <p class="lead">Descripción del producto. Este es un texto simulado.</p>

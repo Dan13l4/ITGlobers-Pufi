@@ -8,7 +8,7 @@ export default function PufiCart() {
   return (
     <div class="containerPufi" id="sectionCart">
       <div class="containerText">
-        <img className="umbrella" src={cart} alt="imageCart" />
+        <img className="icon" src={cart} alt="imageCart" />
         <h3>Pufi CART</h3>
         <img className="separator" src={separador} alt="imageCart" />
         <p class="lead">Descripción del producto. Este es un texto simulado.</p>

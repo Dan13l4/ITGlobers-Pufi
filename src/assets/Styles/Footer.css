@@ -48,15 +48,22 @@ fieldset {
     border-right: 1px solid black
 }
 
-.pgarantia p {
+.guaranteeText p {
     font-size: 10px;
 }
 
-.containersegurity {
+.nav-item{
+    text-align: left;
+}
+
+.containerWarranty {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    margin: 5px;
+}
 
+.buyText{
+    margin-left: -2rem;
+    margin-right: 1rem;
 }
 
 .copyright {
