@@ -1,0 +1,98 @@
+/* Nav styles */
+nav {
+    display: flex;
+    margin: 10px;
+  }
+  .trn{
+    background:transparent  !important;
+    z-index:99;
+  }
+  .nameLogo {
+    font-weight: bold;
+    font-size: 25px;
+  }
+  .logoPufi {
+    height: 6rem;
+    margin-left: 1rem;
+  }
+  .nameLogo {
+    display: flex;
+    flex-direction: row;
+  }
+  a {
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    margin: 0px 15px 0px 15px;
+    color: white;
+    font-weight: bold;
+    text-shadow: 0.1em 0.1em 0.2em black
+  }
+  .option1,
+  .option2,
+  .option3 {
+    border-right: 1px solid #fff ;
+  }
+  .linksOptions {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+  }
+  select {
+    border: none;
+    background: transparent;
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    color: #fff;
+  }
+  .optionSelect {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+  }
+  .selecttittle {
+    font-weight: 100;
+    font-size: 12px;
+  }
+
+/* Carousel styles */
+.textCarousel{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    color: #fff;
+}
+.textCarousel h2 {
+    display: flex;
+    font-weight: 200;
+    color: #fff;
+    margin-top: -20rem;
+    margin-left: 10rem;
+    text-shadow: 0.1em 0.1em 0.2em black
+}
+.carousel{
+    margin-top: -133px;
+}
+.carousel .carousel-indicators button {
+   width: 10px;
+   height: 10px;
+   border-radius: 100%;
+ }
+.carousel-dark .carousel-indicators [data-bs-target] {
+    background-color: #fff;
+    border-radius: 50%;
+}
+.img-fluid{
+    height: 42rem;
+}
+.buttonShop {
+    margin-top: 6rem;
+    padding: 10px 30px; 
+    color: white;
+    font-weight: bold;
+    border-color: #fff;
+}
