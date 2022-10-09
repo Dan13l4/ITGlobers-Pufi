@@ -1,0 +1,72 @@
+.containerForm {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sectionForm {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.FormRegister input {
+    border: none;
+    background-color: transparent;
+}
+
+.FormRegister button {
+    border: none;
+    background-color: transparent;
+}
+
+input {
+    padding: 15px;
+    width: 530px;
+}
+
+input::placeholder {
+    color: black;
+}
+
+fieldset {
+    border: solid 1px black;
+    margin-bottom: 40px;
+}
+.containerfooter a {
+    color: black;
+    font-weight: bold;
+    font-size: 10px;
+}
+
+.ulsection1,
+.ulsection2,
+.ulsection3 {
+    border-right: 1px solid black
+}
+
+.pgarantia p {
+    font-size: 10px;
+}
+
+.containersegurity {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 5px;
+
+}
+
+.copyright {
+    font-size: 10px;
+    margin-left: 10px;
+}
+
+.separatorFooter {
+    padding-left: 12rem;
+    padding-right: 12rem;
+    padding-top: 2rem;
+    box-shadow: 0px -8px 5px #888;
+}

@@ -1,23 +1,23 @@
 import React from "react";
 
 import "../../assets/Styles/Pufi.css";
-import puff from "../../assets/img/pufff.png";
+import cart from "../../assets/img/cartT.png";
 import separador from "../../assets/img/menos.png";
 
-export default function PufiPuff() {
+export default function PufiCart() {
   return (
-    <div class="containerPufi" id="sectionPuff">
+    <div class="containerPufi" id="sectionCart">
       <div class="containerText">
-        <img className="umbrella" src={puff} alt="imagePuff" />
-        <h3>Pufi PUFF</h3>
-        <img className="separator" src={separador} alt="imagePuff" />
+        <img className="umbrella" src={cart} alt="imageCart" />
+        <h3>Pufi CART</h3>
+        <img className="separator" src={separador} alt="imageCart" />
         <p class="lead">Descripción del producto. Este es un texto simulado.</p>
         <button className="showMore">
           {" "}
           <i className="fa-solid fa-chevron-right"> VER MAS</i>{" "}
         </button>
       </div>
-      <div class="containerImgPuff">
+      <div class="containerImgCart">
         <div className="buttonbox">
           <button className="btnShop bg-transparent">SHOP</button>
         </div>

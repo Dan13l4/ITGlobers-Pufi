@@ -15,6 +15,9 @@ nav {
     height: 6rem;
     margin-left: 1rem;
   }
+  .logoPufi img{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
   .nameLogo {
     display: flex;
     flex-direction: row;
@@ -42,7 +45,6 @@ nav {
   select {
     border: none;
     background: transparent;
-    font-family: "Poppins", sans-serif;
     font-size: 12px;
     font-weight: bold;
     color: #fff;
