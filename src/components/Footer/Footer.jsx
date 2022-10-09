@@ -101,7 +101,7 @@ export default function Footer() {
                 </li>
                 <li className=" guaranteeText nav-item mb-2">
                   <div className="containerWarranty">
-                    <i class="fa-solid fa-shield-halved"></i>
+                    <i className="fa-solid fa-shield-halved"></i>
                     <p className="buyText">COMPRA CON LA GARANTIA DE PUFI</p>
                   </div>
                 </li>
@@ -112,7 +112,7 @@ export default function Footer() {
               <ul className="nav flex-column">
                 <li className="nav-item mb-2">
                   <a href="/" className="social nav-link p-0">
-                    SEGUINOS EN <i class="fa-brands fa-facebook-f"></i> <i class="fa-brands fa-twitter"></i> <i class="fa-brands fa-instagram"></i>
+                    SEGUINOS EN <i className="fa-brands fa-facebook-f"></i> <i className="fa-brands fa-twitter"></i> <i className="fa-brands fa-instagram"></i>
                   </a>
                 </li>
               </ul>

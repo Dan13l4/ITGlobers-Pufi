@@ -18,24 +18,24 @@ export default function Header() {
           <section className="linksOptions  col-6">
             <div className="option1 container-fluid">
               <a href="#sectionPuff">
-                <i class="fa-solid fa-couch"></i> PUFI PUFF
+                <i className="fa-solid fa-couch"></i> PUFI PUFF
               </a>
             </div>
             <div className="option2 container-fluid">
               <a href="#sectionRain">
-                <i class="fa-solid fa-umbrella"></i>
+                <i className="fa-solid fa-umbrella"></i>
                 PUFI RAIN
               </a>
             </div>
             <div className="option3 container-fluid">
               <a href="#sectionCart">
-                <i class="fa-solid fa-bag-shopping"></i>
+                <i className="fa-solid fa-bag-shopping"></i>
                 PUFI CART
               </a>
             </div>
             <div className="option4 container-fluid">
               <a href="#sectionNap">
-                <i class="fa-solid fa-mattress-pillow"></i>
+                <i className="fa-solid fa-mattress-pillow"></i>
                 PUFI NAP
               </a>
             </div>
